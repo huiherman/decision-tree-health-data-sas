@@ -30,8 +30,5 @@ To evaluate the impact of pruning methods on classification performance by compa
 - Practiced evaluating models using misclassification and KS statistic
 - Understood health data structure and variable selection for classification
 
-## 🔗 Repository URL
-[github.com/hermanhui/decision-tree-health-data-sas](https://github.com/hermanhui/decision-tree-health-data-sas)
-
 ## 🧠 Skills Applied
 SAS Model Studio, health data classification, decision tree pruning, KS statistic analysis, model validation
